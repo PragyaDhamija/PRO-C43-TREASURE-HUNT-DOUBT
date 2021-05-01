@@ -11,19 +11,19 @@ class Security {
         this.button1.style('background', 'lightgrey');   
         
         this.access2 = createInput("Answer2")
-        this.access2.position(300,350);
+        this.access2.position(610,190);
         this.access2.style('background', 'white');  
 
         this.button2 = createButton('Check');
-        this.button2.position(300,380);
+        this.button2.position(610,220);
         this.button2.style('background', 'lightgrey');
 
         this.access3 = createInput("Answer3")
-        this.access3.position(610,190);
+        this.access3.position(300,350);
         this.access3.style('background', 'white');  
 
         this.button3 = createButton('Check');
-        this.button3.position(610,220);
+        this.button3.position(300,380);
         this.button3.style('background', 'lightgrey');
 
         

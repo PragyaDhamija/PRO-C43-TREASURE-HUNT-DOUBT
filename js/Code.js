@@ -12,15 +12,16 @@ function clues() {
 
     fill("white")
     textSize(15)
-    text("A T A D A S B A", 610,150)
+    text("C U T N I F O N", 610,150)
     fill("lightblue")
-    text("Hint: Stores all information !!", 610,170);
+    text("Hint: Performs a particular task !!", 610,170)
 
     fill("white")
     textSize(15)
-    text("C U T N I F O N", 300,310)
+    text("A T A D A S B A", 300,310)
     fill("lightblue")
-    text("Hint: Performs a particular task !!", 300,330)
+    text("Hint: Stores all information !!", 300,330);
+
 // add code for displaying rest of the names and the hints.
     
 
